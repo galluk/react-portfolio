@@ -9,11 +9,10 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function Contact() {
   return (
     <div>
-      <Container style={{ width: 400, marginTop: 30, backgroundColor: 'white', padding: 10, textAlign: 'left' }}>
+      <Container style={{ marginTop: 30, backgroundColor: 'white', padding: 10 }}>
         <Row>
           <Col size="md-10">
             <h1>Contact</h1>
-            <hr></hr>
           </Col>
         </Row>
         <Row>

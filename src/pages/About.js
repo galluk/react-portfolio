@@ -4,7 +4,6 @@ import Row from "../components/Row";
 import Col from "../components/Col";
 
 function About() {
-  
   const imgstyle = {
     float: 'left',
     border: 'none',
