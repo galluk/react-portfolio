@@ -20,7 +20,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://myusername.github.io/react-portfolio",
+  "homepage": "https://galluk.github.io/react-portfolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b main -d build",    
